@@ -70,25 +70,13 @@ class Daniil:
 
 ## Проекты
 
-> **soulGuide** — флагманское приложение на **Flutter / Dart**, моя лучшая работа. _(приватный репозиторий)_
+<p align="center">
+  <img width="100%" src="assets/projects.svg" alt="проекты"/>
+</p>
 
-**Публичные**
-
-| Проект | О чём | Стек |
-|--------|-------|------|
-| **[AI_Company](https://github.com/SK0LX/AI_Company)** | Оркестрация мульти-агентов: persona-субагенты, live-стрим шагов | `LangGraph` · `LangChain` · `FastAPI` |
-| **[manager_server_for_3x-ui](https://github.com/SK0LX/manager_server_for_3x-ui)** | Менеджер серверов для панели 3x-ui | `Kotlin` |
-| **[automationTgChannel](https://github.com/SK0LX/automationTgChannel)** | Автоматизация Telegram-каналов | `Python` · `aiogram` |
-| **[monopoly](https://github.com/SK0LX/monopoly)** | Настольная «Монополия» | `C#` |
-
-**Приватные / коммерческие**
-
-| Проект | О чём | Стек |
-|--------|-------|------|
-| **MeditationApp + MeditationServer** | Медитации: Flutter-клиент + прод-бэкенд с подписками Stripe / Apple IAP, JWT, S3 | `Flutter` · `FastAPI` · `PostgreSQL` |
-| **banner_bot** | Коммерческий Telegram-бот: генерация баннеров, платежи, очередь рендера, Sentry, CI/CD | `aiogram` · `FastAPI` · `Redis` |
-| **kanban** | Фуллстек канбан-доска: JWT access/refresh, RBAC, слои router→service→repo | `FastAPI` · `React` · `PostgreSQL` |
-| **tg_bot** | Telegram Mini App: aiogram-бот, FastAPI-админка, ML-модуль | `aiogram` · `FastAPI` · `ML` |
+<p align="center">
+  <sub>репозитории: <a href="https://github.com/SK0LX/AI_Company">AI_Company</a> · <a href="https://github.com/SK0LX/manager_server_for_3x-ui">manager_server_for_3x-ui</a> · <a href="https://github.com/SK0LX/automationTgChannel">automationTgChannel</a> · <a href="https://github.com/SK0LX/monopoly">monopoly</a></sub>
+</p>
 
 <br/>
 
