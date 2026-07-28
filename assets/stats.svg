@@ -1,0 +1,36 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Stats">
+  <style>
+    .num    { font: 700 27px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; opacity: 1; animation: fadein 0.6s ease-in-out; }
+    .lbl    { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #a9b1d6; opacity: 1; animation: fadein 0.6s ease-in-out; }
+    .title  { font: 600 20px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #70a5fd; }
+    .sub    { font: 400 12px 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif; fill: #565f89; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  </style>
+
+  <rect class="card" x="0.5" y="0.5" rx="10" width="494" height="194" fill="#1a1b27" stroke="#292e42"/>
+
+  <text x="25" y="38" class="title">Daniil — GitHub Stats</text>
+  <text x="25" y="58" class="sub">кодит с октября 2023 · студент ФИИТ</text>
+
+  <g transform="translate(25, 90)">
+    <circle cx="6" cy="-5" r="6" fill="#7aa2f7"/>
+    <text x="22" y="0"  class="num" style="animation-delay:150ms" fill="#c0caf5">911</text>
+    <text x="22" y="18" class="lbl" style="animation-delay:150ms">контрибьюшенов за год</text>
+  </g>
+  <g transform="translate(25, 155)">
+    <circle cx="6" cy="-5" r="6" fill="#bb9af7"/>
+    <text x="22" y="0"  class="num" style="animation-delay:450ms" fill="#c0caf5">206</text>
+    <text x="22" y="18" class="lbl" style="animation-delay:450ms">pull request'ов</text>
+  </g>
+
+  <g transform="translate(270, 90)">
+    <circle cx="6" cy="-5" r="6" fill="#9ece6a"/>
+    <text x="22" y="0"  class="num" style="animation-delay:300ms" fill="#c0caf5">672</text>
+    <text x="22" y="18" class="lbl" style="animation-delay:300ms">коммитов за год</text>
+  </g>
+  <g transform="translate(270, 155)">
+    <circle cx="6" cy="-5" r="6" fill="#e0af68"/>
+    <text x="22" y="0"  class="num" style="animation-delay:600ms" fill="#c0caf5">45</text>
+    <text x="22" y="18" class="lbl" style="animation-delay:600ms">публичных репозиториев</text>
+  </g>
+</svg>

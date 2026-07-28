@@ -1,0 +1,12 @@
+<svg width="900" height="90" viewBox="0 0 900 90" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="fg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7dcfff"/>
+      <stop offset="0.5" stop-color="#7aa2f7"/>
+      <stop offset="1" stop-color="#bb9af7"/>
+    </linearGradient>
+  </defs>
+  <text x="450" y="30" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="14" fill="#a9b1d6">⚡ Открыт к интересным задачам — пиши в Telegram</text>
+  <path d="M0,55 C150,32 300,32 450,47 C600,62 750,62 900,42 L900,90 L0,90 Z" fill="url(#fg)" fill-opacity="0.85"/>
+  <path d="M0,63 C150,42 300,42 450,55 C600,68 750,68 900,50 L900,90 L0,90 Z" fill="url(#fg)" fill-opacity="0.45"/>
+</svg>

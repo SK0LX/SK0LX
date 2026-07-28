@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # раз в сутки
-  workflow_dispatch:        # ручной запуск из вкладки Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
 
