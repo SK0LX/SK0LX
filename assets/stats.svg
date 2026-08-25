@@ -14,23 +14,23 @@
 
   <g transform="translate(25, 90)">
     <circle cx="6" cy="-5" r="6" fill="#7aa2f7"/>
-    <text x="22" y="0"  class="num" style="animation-delay:150ms" fill="#c0caf5">911</text>
+    <text x="22" y="0"  class="num" style="animation-delay:150ms" fill="#c0caf5">750</text>
     <text x="22" y="18" class="lbl" style="animation-delay:150ms">контрибьюшенов за год</text>
   </g>
   <g transform="translate(25, 155)">
     <circle cx="6" cy="-5" r="6" fill="#bb9af7"/>
-    <text x="22" y="0"  class="num" style="animation-delay:450ms" fill="#c0caf5">206</text>
+    <text x="22" y="0"  class="num" style="animation-delay:450ms" fill="#c0caf5">327</text>
     <text x="22" y="18" class="lbl" style="animation-delay:450ms">pull request'ов</text>
   </g>
 
   <g transform="translate(270, 90)">
     <circle cx="6" cy="-5" r="6" fill="#9ece6a"/>
-    <text x="22" y="0"  class="num" style="animation-delay:300ms" fill="#c0caf5">672</text>
+    <text x="22" y="0"  class="num" style="animation-delay:300ms" fill="#c0caf5">588</text>
     <text x="22" y="18" class="lbl" style="animation-delay:300ms">коммитов за год</text>
   </g>
   <g transform="translate(270, 155)">
     <circle cx="6" cy="-5" r="6" fill="#e0af68"/>
-    <text x="22" y="0"  class="num" style="animation-delay:600ms" fill="#c0caf5">45</text>
+    <text x="22" y="0"  class="num" style="animation-delay:600ms" fill="#c0caf5">13</text>
     <text x="22" y="18" class="lbl" style="animation-delay:600ms">публичных репозиториев</text>
   </g>
 </svg>

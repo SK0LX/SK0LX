@@ -74,8 +74,51 @@ class Daniil:
   <img width="100%" src="assets/projects.svg" alt="проекты"/>
 </p>
 
+<table align="center">
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/AI_Company">AI_Company</a></b></td>
+    <td>Python · LangGraph</td>
+    <td>Мини-IT-компания из AI-агентов в Telegram</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/AST">AST</a></b></td>
+    <td>Python · Node.js · Solana</td>
+    <td>Sniper-бот: мониторинг, фильтры, автосделки</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/automationTgChannel">automationTgChannel</a></b></td>
+    <td>Python · Node.js · LLM</td>
+    <td>RSS → LLM → модерация → канал</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/manager_server_for_3x-ui">manager_server_for_3x-ui</a></b></td>
+    <td>Kotlin · Android</td>
+    <td>Менеджер VPN-серверов: Clean Architecture + MVI</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/monopoly">monopoly</a></b></td>
+    <td>C# · .NET 10</td>
+    <td>Бэкенд «Монополии» по чистой архитектуре</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/history">history</a></b></td>
+    <td>Python · Flask · Docker</td>
+    <td>Генератор кроссвордов со своим алгоритмом</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/WebServer">WebServer</a></b></td>
+    <td>Python · sockets</td>
+    <td>HTTP-сервер с нуля: keep-alive, кэш, rate limit</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/SK0LX/TeeWorlds">TeeWorlds</a></b></td>
+    <td>Python · Pygame</td>
+    <td>2D-платформер с мультиплеером и редактором карт</td>
+  </tr>
+</table>
+
 <p align="center">
-  <sub>репозитории: <a href="https://github.com/SK0LX/AI_Company">AI_Company</a> · <a href="https://github.com/SK0LX/manager_server_for_3x-ui">manager_server_for_3x-ui</a> · <a href="https://github.com/SK0LX/automationTgChannel">automationTgChannel</a> · <a href="https://github.com/SK0LX/monopoly">monopoly</a></sub>
+  <sub>ещё: <a href="https://github.com/SK0LX/SharpGame">SharpGame</a> · <a href="https://github.com/SK0LX/MS">MS</a> · <a href="https://github.com/SK0LX/history_bot">history_bot</a> · <a href="https://github.com/SK0LX/JackGame">JackGame</a></sub>
 </p>
 
 <br/>
