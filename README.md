@@ -74,52 +74,37 @@ class Daniil:
   <img width="100%" src="assets/projects.svg" alt="проекты"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/AI_Company">AI_Company</a></b></td>
-    <td>Python · LangGraph</td>
-    <td>Мини-IT-компания из AI-агентов в Telegram</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/AST">AST</a></b></td>
-    <td>Python · Node.js · Solana</td>
-    <td>Sniper-бот: мониторинг, фильтры, автосделки</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/automationTgChannel">automationTgChannel</a></b></td>
-    <td>Python · Node.js · LLM</td>
-    <td>RSS → LLM → модерация → канал</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/manager_server_for_3x-ui">manager_server_for_3x-ui</a></b></td>
-    <td>Kotlin · Android</td>
-    <td>Менеджер VPN-серверов: Clean Architecture + MVI</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/monopoly">monopoly</a></b></td>
-    <td>C# · .NET 10</td>
-    <td>Бэкенд «Монополии» по чистой архитектуре</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/history">history</a></b></td>
-    <td>Python · Flask · Docker</td>
-    <td>Генератор кроссвордов со своим алгоритмом</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/WebServer">WebServer</a></b></td>
-    <td>Python · sockets</td>
-    <td>HTTP-сервер с нуля: keep-alive, кэш, rate limit</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/SK0LX/TeeWorlds">TeeWorlds</a></b></td>
-    <td>Python · Pygame</td>
-    <td>2D-платформер с мультиплеером и редактором карт</td>
-  </tr>
-</table>
+### Бэкенд и AI · Python
 
-<p align="center">
-  <sub>ещё: <a href="https://github.com/SK0LX/SharpGame">SharpGame</a> · <a href="https://github.com/SK0LX/MS">MS</a> · <a href="https://github.com/SK0LX/history_bot">history_bot</a> · <a href="https://github.com/SK0LX/JackGame">JackGame</a></sub>
-</p>
+| Проект | Стек | О чём |
+|---|---|---|
+| [`AI_Company`](https://github.com/SK0LX/AI_Company) | LangGraph · aiogram · Docker | Мини-IT-компания из AI-агентов: CEO разбирает задачу, согласует план и раздаёт работу команде — агенты пишут настоящие файлы проекта |
+| [`automationTgChannel`](https://github.com/SK0LX/automationTgChannel) | OpenRouter · Express · PostgreSQL | Конвейер наполнения канала: RSS → LLM → модерация в боте или веб-панели → публикация |
+| [`AST`](https://github.com/SK0LX/AST) | asyncio · Solana · WebSocket | Торговый бот: мониторинг новых токенов в реальном времени, фильтры, автосделки, Android-клиент |
+| [`history`](https://github.com/SK0LX/history) | Flask · PostgreSQL · Docker | Генератор кроссвордов: жадный алгоритм с оценкой позиций пересечений |
+| [`history_bot`](https://github.com/SK0LX/history_bot) | aiogram · python-docx | Викторина по истории — база вопросов парсится прямо из `.docx` |
+
+### C# · .NET и Unity
+
+| Проект | Стек | О чём |
+|---|---|---|
+| [`monopoly`](https://github.com/SK0LX/monopoly) | .NET 10 · EF Core · PostgreSQL | Бэкенд «Монополии»: чистая архитектура, PBKDF2, отзываемые сессии, minimal API |
+| [`SharpGame`](https://github.com/SK0LX/SharpGame) | Unity · URP · Cinemachine | Dark Portal — 2D-RPG: квесты, диалоги, боссы, магазин и мини-игры |
+
+### Мобильная разработка · Kotlin
+
+| Проект | Стек | О чём |
+|---|---|---|
+| [`manager_server_for_3x-ui`](https://github.com/SK0LX/manager_server_for_3x-ui) | Dagger 2 · Retrofit · MVI | Менеджер VPN-серверов 3x-ui: inbounds, клиенты, метрики. Clean Architecture, экран = отдельный модуль |
+
+### Системное и алгоритмы
+
+| Проект | Стек | О чём |
+|---|---|---|
+| [`WebServer`](https://github.com/SK0LX/WebServer) | Python · сокеты | HTTP-сервер с нуля: keep-alive, rate limit, кэш с вытеснением по возрасту и по частоте |
+| [`MS`](https://github.com/SK0LX/MS) | Python · NLTK | Три спам-фильтра с нуля: наивный Байес, цепь Маркова и гибрид с n-граммами и стеммингом |
+| [`TeeWorlds`](https://github.com/SK0LX/TeeWorlds) | Pygame · сокеты | 2D-платформер: крюк, бомбы, мультиплеер на своём протоколе, редактор уровней |
+| [`JackGame`](https://github.com/SK0LX/JackGame) | Jack · nand2tetris | Аркада на учебном языке: ручная отрисовка и управление памятью |
 
 <br/>
 
